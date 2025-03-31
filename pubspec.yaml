@@ -37,6 +37,7 @@ dependencies:
   flutter_bloc: ^9.1.0
   dio: ^5.8.0+1
   pretty_dio_logger: ^1.4.0
+  carousel_slider: ^5.0.0
 
 dev_dependencies:
   flutter_test:

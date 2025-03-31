@@ -10,5 +10,5 @@ class API {
       PrettyDioLogger(),
     );
   }
-  Dio get sendRequest => _dio;
+Dio get sendRequest => _dio;
 }
